@@ -228,7 +228,7 @@ button:focus {
 .mu-header-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.8;
+	opacity: 0.99;
 	width: 100%;
 }
 
@@ -298,6 +298,7 @@ button:focus {
 .mu-header-featured-content h1 {
 	font-size: 45px;
 	color: #fff;
+	/* text-shadow: #000 0px 0px 2px; */
 	font-weight: 300;
 	margin-bottom: 15px;
 }
@@ -307,6 +308,7 @@ button:focus {
 }
 
 .mu-header-featured-content p{
+	/* text-shadow: #000 0px 0px 2px; */
 	color: #fff;
 }
 
