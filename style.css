@@ -307,7 +307,19 @@ button:focus {
 	font-weight: 700;
 }
 
+.mu-header-featured-content h3 span {
+	color: pink;
+	font-weight: 700;
+	background-color: white;
+	border-radius: 15px;
+}
+
 .mu-header-featured-content p{
+	/* text-shadow: #000 0px 0px 2px; */
+	color: #fff;
+}
+
+.mu-header-featured-content h4{
 	/* text-shadow: #000 0px 0px 2px; */
 	color: #fff;
 }
