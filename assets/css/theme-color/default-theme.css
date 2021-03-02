@@ -30,6 +30,10 @@ Author URI : http://www.markups.io/
 	color: #FFB8DB;
 }
 
+.mu-apps-screenshot-slider{
+	height:500px;
+}
+
 .mu-social-media a:hover,
 .mu-social-media a:focus,
 .mu-contact-right-single .mu-icon {
@@ -57,6 +61,11 @@ Author URI : http://www.markups.io/
 }
 .mu-feature-content-right .media:hover {
 	border-bottom: 1px solid #FFB8DB;
+}
+
+.mu-single-screeshot{
+	width: 425px;
+	height: 753px;
 }
 
 .mu-apps-screenshot-slider .slick-next,
